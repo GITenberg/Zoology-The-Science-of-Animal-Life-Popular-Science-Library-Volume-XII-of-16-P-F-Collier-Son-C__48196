@@ -1,4 +1,8 @@
 _repo: Zoology-The-Science-of-Animal-Life-Popular-Science-Library-Volume-XII-of-16-P-F-Collier-Son-C__48196
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48196-h/images/cover.jpg
 creator:
   author:
     agent_name: Ingersoll, Ernest
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '39898'
     url: http://www.gutenberg.org/2009/agents/39898
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48196#Zoology-The-Science-of-Animal-Life-Popular-Science-Library-Volume-XII-of-16-P-F-Collier-Son-C_
 gutenberg_issued: '2015-02-08'
 gutenberg_type: Text
 identifiers:
