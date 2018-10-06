@@ -21,6 +21,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Zoology: The Science of Animal Life
 
   Popular Science Library, Volume XII (of 16), P. F. Collier & Son Company, 1922'
